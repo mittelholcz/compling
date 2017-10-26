@@ -1,2 +1,2 @@
 # compling2017-18
-Computitional Lingusitics Course at Research Iinstitute for Linguistics
+Computional Linguistics Course at the Research Institute for Linguistics
