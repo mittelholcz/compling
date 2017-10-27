@@ -1,3 +1,7 @@
+---
+title: Számítógépes nyelvészet
+---
+
 # Notes
 
 ## 1. Fejezet
