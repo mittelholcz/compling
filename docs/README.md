@@ -1,5 +1,6 @@
 ---
-title: Valami
+title: This is my title
+layout: post
 ---
 
 # Notes
