@@ -1,5 +1,5 @@
 ---
-title: Számítógépes nyelvészet
+title: Valami
 ---
 
 # Notes
