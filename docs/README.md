@@ -1,6 +1,3 @@
----
----
-
 # Notes
 
 ## 1. Fejezet
