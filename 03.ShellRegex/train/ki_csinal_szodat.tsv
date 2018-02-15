@@ -1,0 +1,198 @@
+ID	string	anas	feature	lemma	hfstana	pos	chunk	depType	depTarget	cons	NER
+<s>
+0	Akárhogy	{ana=akárhogy[/Adv|Pro]=akárhogy, feats=[/Adv|Pro], lemma=akárhogy, readable_ana=akárhogy[/Adv|Pro]}	SubPOS=d|Deg=none|Num=none|Per=none	akárhogy	[/Adv|Pro]	Adv	O	MODE	4	(ROOT(CP(CP(ADVP*)	O	
+2	is	{ana=is[/Adv]=is, feats=[/Adv], lemma=is, readable_ana=is[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	is	[/Adv]	Adv	O	MODE	4	(C0*)	O	
+4	fáj	{ana=fáj[/V]=fáj+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=fáj, readable_ana=fáj[/V] + [Prs.NDef.3Sg]}	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	fáj	[/V][Prs.NDef.3Sg]	V	O			(V_(V0*)))	O	
+5	,		_	,	OTHER	,	O	ATT	10	*	O	
+6	lehullt	{ana=le[/Prev]=le+hull[/V]=hull+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=lehull, readable_ana=le[/Prev] + hull[/V] + t[Pst.NDef.3Sg]};{ana=le[/Prev]=le+hull[/V]=hull+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=lehullt, readable_ana=le[/Prev] + hull[/V] + t[_PerfPtcp/Adj] + [Nom]};{ana=le[/Prev]=le+hullik[/V]=hull+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=lehullik, readable_ana=le[/Prev] + hullik[/V]=hull + t[Pst.NDef.3Sg]};{ana=le[/Prev]=le+hullik[/V]=hull+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=lehullt, readable_ana=le[/Prev] + hullik[/V]=hull + t[_PerfPtcp/Adj] + [Nom]}	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n	lehull	[/V][Pst.NDef.3Sg]	V	O	ATT	10	(CP(NP*)	O	
+8	minden	{ana=mind[/N|Pro]=mind+en[Supe]=en, feats=[/N|Pro][Supe], lemma=mind, readable_ana=mind[/N|Pro] + en[Supe]};{ana=minden[/Det|Q|indef]=minden, feats=[/Det|Q|indef], lemma=minden, readable_ana=minden[/Det|Q|indef]};{ana=minden[/N|Pro]=minden+[Nom], feats=[/N|Pro][Nom], lemma=minden, readable_ana=minden[/N|Pro] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Nom]	N	B-NP	ATT	10	(NP(ADJP*)	O	
+10	sztár	{ana=sztár[/N]=sztár+[Nom], feats=[/N][Nom], lemma=sztár, readable_ana=sztár[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	sztár	[/N][Nom]	N	E-NP	SUBJ	4	*))	O	
+11	.		_	.	OTHER	.	O	ATT	4	*))	O	
+</s>
+<s>
+14	Akárhogy	{ana=akárhogy[/Adv|Pro]=akárhogy, feats=[/Adv|Pro], lemma=akárhogy, readable_ana=akárhogy[/Adv|Pro]}	SubPOS=d|Deg=none|Num=none|Per=none	akárhogy	[/Adv|Pro]	Adv	O	MODE	18	(ROOT(CP(CP(ADVP*)	O	
+16	is	{ana=is[/Adv]=is, feats=[/Adv], lemma=is, readable_ana=is[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	is	[/Adv]	Adv	O	MODE	18	(C0*)	O	
+18	fáj	{ana=fáj[/V]=fáj+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=fáj, readable_ana=fáj[/V] + [Prs.NDef.3Sg]}	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	fáj	[/V][Prs.NDef.3Sg]	V	O			(V_(V0*)))	O	
+19	,		_	,	OTHER	,	O	ATT	18	*	O	
+20	padlón	{ana=padló[/N]=padló+n[Supe]=n, feats=[/N][Supe], lemma=padló, readable_ana=padló[/N] + n[Supe]}	SubPOS=c|Num=s|Cas=p|NumP=none|PerP=none|NumPd=none	padló	[/N][Supe]	N	1-NP	OBL	18	(CP(NP*)	O	
+22	minden	{ana=mind[/N|Pro]=mind+en[Supe]=en, feats=[/N|Pro][Supe], lemma=mind, readable_ana=mind[/N|Pro] + en[Supe]};{ana=minden[/Det|Q|indef]=minden, feats=[/Det|Q|indef], lemma=minden, readable_ana=minden[/Det|Q|indef]};{ana=minden[/N|Pro]=minden+[Nom], feats=[/N|Pro][Nom], lemma=minden, readable_ana=minden[/N|Pro] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Nom]	N	B-NP	ATT	24	(NP(ADJP*)	O	
+24	sztár	{ana=sztár[/N]=sztár+[Nom], feats=[/N][Nom], lemma=sztár, readable_ana=sztár[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	sztár	[/N][Nom]	N	E-NP	SUBJ	18	*))	O	
+25	.		_	.	OTHER	.	O	ATT	18	*))	O	
+</s>
+<s>
+28	Akárhogy	{ana=akárhogy[/Adv|Pro]=akárhogy, feats=[/Adv|Pro], lemma=akárhogy, readable_ana=akárhogy[/Adv|Pro]}	SubPOS=d|Deg=none|Num=none|Per=none	akárhogy	[/Adv|Pro]	Adv	O	MODE	32	(ROOT(CP(CP(ADVP*)	O	
+30	is	{ana=is[/Adv]=is, feats=[/Adv], lemma=is, readable_ana=is[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	is	[/Adv]	Adv	O	MODE	32	(C0*)	O	
+32	fáj	{ana=fáj[/V]=fáj+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=fáj, readable_ana=fáj[/V] + [Prs.NDef.3Sg]}	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	fáj	[/V][Prs.NDef.3Sg]	V	O			(V_(V0*)))	O	
+33	,		_	,	OTHER	,	O	ATT	38	*	O	
+34	lehullt	{ana=le[/Prev]=le+hull[/V]=hull+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=lehull, readable_ana=le[/Prev] + hull[/V] + t[Pst.NDef.3Sg]};{ana=le[/Prev]=le+hull[/V]=hull+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=lehullt, readable_ana=le[/Prev] + hull[/V] + t[_PerfPtcp/Adj] + [Nom]};{ana=le[/Prev]=le+hullik[/V]=hull+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=lehullik, readable_ana=le[/Prev] + hullik[/V]=hull + t[Pst.NDef.3Sg]};{ana=le[/Prev]=le+hullik[/V]=hull+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=lehullt, readable_ana=le[/Prev] + hullik[/V]=hull + t[_PerfPtcp/Adj] + [Nom]}	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n	lehull	[/V][Pst.NDef.3Sg]	V	O	ATT	38	(CP(NP*)	O	
+36	minden	{ana=mind[/N|Pro]=mind+en[Supe]=en, feats=[/N|Pro][Supe], lemma=mind, readable_ana=mind[/N|Pro] + en[Supe]};{ana=minden[/Det|Q|indef]=minden, feats=[/Det|Q|indef], lemma=minden, readable_ana=minden[/Det|Q|indef]};{ana=minden[/N|Pro]=minden+[Nom], feats=[/N|Pro][Nom], lemma=minden, readable_ana=minden[/N|Pro] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Nom]	N	B-NP	ATT	38	(NP(ADJP*)	O	
+38	sztár	{ana=sztár[/N]=sztár+[Nom], feats=[/N][Nom], lemma=sztár, readable_ana=sztár[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	sztár	[/N][Nom]	N	E-NP	SUBJ	32	*))	O	
+39	.		_	.	OTHER	.	O	ATT	32	*))	O	
+</s>
+<s>
+42	Akárhogy	{ana=akárhogy[/Adv|Pro]=akárhogy, feats=[/Adv|Pro], lemma=akárhogy, readable_ana=akárhogy[/Adv|Pro]}	SubPOS=d|Deg=none|Num=none|Per=none	akárhogy	[/Adv|Pro]	Adv	O	MODE	46	(ROOT(CP(CP(ADVP*)	O	
+44	is	{ana=is[/Adv]=is, feats=[/Adv], lemma=is, readable_ana=is[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	is	[/Adv]	Adv	O	MODE	46	(C0*)	O	
+46	fáj	{ana=fáj[/V]=fáj+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=fáj, readable_ana=fáj[/V] + [Prs.NDef.3Sg]}	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	fáj	[/V][Prs.NDef.3Sg]	V	O			(V_(V0*)))	O	
+47	,		_	,	OTHER	,	O	ATT	46	*	O	
+48	padlón	{ana=padló[/N]=padló+n[Supe]=n, feats=[/N][Supe], lemma=padló, readable_ana=padló[/N] + n[Supe]}	SubPOS=c|Num=s|Cas=p|NumP=none|PerP=none|NumPd=none	padló	[/N][Supe]	N	1-NP	OBL	46	(CP(NP*)	O	
+50	minden	{ana=mind[/N|Pro]=mind+en[Supe]=en, feats=[/N|Pro][Supe], lemma=mind, readable_ana=mind[/N|Pro] + en[Supe]};{ana=minden[/Det|Q|indef]=minden, feats=[/Det|Q|indef], lemma=minden, readable_ana=minden[/Det|Q|indef]};{ana=minden[/N|Pro]=minden+[Nom], feats=[/N|Pro][Nom], lemma=minden, readable_ana=minden[/N|Pro] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Nom]	N	B-NP	ATT	52	(NP(ADJP*)	O	
+52	sztár	{ana=sztár[/N]=sztár+[Nom], feats=[/N][Nom], lemma=sztár, readable_ana=sztár[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	sztár	[/N][Nom]	N	E-NP	SUBJ	46	*))	O	
+53	.		_	.	OTHER	.	O	ATT	46	*))	O	
+</s>
+<s>
+56	Répa	{ana=répa[/N]=répa+[Nom], feats=[/N][Nom], lemma=répa, readable_ana=répa[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	répa	[/N][Nom]	N	O	ATT	60	(ROOT(CP(NP(NP*)	O	
+57	,		_	,	OTHER	,	O	ATT	60	*	O	
+58	retek	{ana=retek[/N]=retek+[Nom], feats=[/N][Nom], lemma=retek, readable_ana=retek[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	retek	[/N][Nom]	N	O	ATT	60	(NP*)	O	
+59	,		_	,	OTHER	,	O	ATT	60	*	O	
+60	mogyoró	{ana=mogyoró[/N]=mogyoró+[Nom], feats=[/N][Nom], lemma=mogyoró, readable_ana=mogyoró[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	mogyoró	[/N][Nom]	N	O	SUBJ	64	(NP*)	O	
+61	,		_	,	OTHER	,	O	ATT	64	*	O	
+62	ritkán	{ana=ritka[/Adj]=ritká+n[Supe]=n, feats=[/Adj][Supe], lemma=ritka, readable_ana=ritka[/Adj]=ritká + n[Supe]};{ana=ritka[/Adj]=ritká+n[_Manner/Adv]=n, feats=[/Adj][_Manner/Adv], lemma=ritka, readable_ana=ritka[/Adj]=ritká + n[_Manner/Adv]};{ana=ritkán[/Adv]=ritkán, feats=[/Adv], lemma=ritkán, readable_ana=ritkán[/Adv]}	SubPOS=f|Deg=p|Num=s|Cas=w|NumP=none|PerP=none|NumPd=none	ritka	[/Adj][_Manner/Adv]	Adj	O	MODE	64	(ADVP*)	O	
+64	rikkant	{ana=rikkan[/V]=rikkan+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=rikkan, readable_ana=rikkan[/V] + t[Pst.NDef.3Sg]};{ana=rikkan[/V]=rikkan+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=rikkant, readable_ana=rikkan[/V] + t[_PerfPtcp/Adj] + [Nom]};{ana=rikkant[/V]=rikkant+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=rikkant, readable_ana=rikkant[/V] + [Prs.NDef.3Sg]}	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n	rikkan	[/V][Pst.NDef.3Sg]	V	O			(NP*))	O	
+66	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a, readable_ana=a[/Det|Pro|(Post)]};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a, readable_ana=a[/Det|art.Def]};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a, readable_ana=a[/N|Ltr] + [Nom]};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a, readable_ana=a[/N|Pro|(Post)] + [Nom]}	SubPOS=f	a	[/Det|art.Def]	Det	B-NP	DET	68	(NP*	O	
+68	rigó	{ana=rigó[/N]=rigó+[Nom], feats=[/N][Nom], lemma=rigó, readable_ana=rigó[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	rigó	[/N][Nom]	N	E-NP	SUBJ	64	*)	O	
+69	.		_	.	OTHER	.	O	ATT	64	*))	O	
+</s>
+<s>
+72	Répa	{ana=répa[/N]=répa+[Nom], feats=[/N][Nom], lemma=répa, readable_ana=répa[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	répa	[/N][Nom]	N	O	ATT	76	(ROOT(CP(NP(NP*)	O	
+73	,		_	,	OTHER	,	O	ATT	76	*	O	
+74	retek	{ana=retek[/N]=retek+[Nom], feats=[/N][Nom], lemma=retek, readable_ana=retek[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	retek	[/N][Nom]	N	O	ATT	76	(NP*)	O	
+75	,		_	,	OTHER	,	O	ATT	76	*	O	
+76	mogyoró	{ana=mogyoró[/N]=mogyoró+[Nom], feats=[/N][Nom], lemma=mogyoró, readable_ana=mogyoró[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	mogyoró	[/N][Nom]	N	O	SUBJ	80	(NP*)	O	
+77	,		_	,	OTHER	,	O	ATT	80	*	O	
+78	ritkán	{ana=ritka[/Adj]=ritká+n[Supe]=n, feats=[/Adj][Supe], lemma=ritka, readable_ana=ritka[/Adj]=ritká + n[Supe]};{ana=ritka[/Adj]=ritká+n[_Manner/Adv]=n, feats=[/Adj][_Manner/Adv], lemma=ritka, readable_ana=ritka[/Adj]=ritká + n[_Manner/Adv]};{ana=ritkán[/Adv]=ritkán, feats=[/Adv], lemma=ritkán, readable_ana=ritkán[/Adv]}	SubPOS=f|Deg=p|Num=s|Cas=w|NumP=none|PerP=none|NumPd=none	ritka	[/Adj][_Manner/Adv]	Adj	O	MODE	80	(ADVP*)	O	
+80	rikkant	{ana=rikkan[/V]=rikkan+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=rikkan, readable_ana=rikkan[/V] + t[Pst.NDef.3Sg]};{ana=rikkan[/V]=rikkan+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=rikkant, readable_ana=rikkan[/V] + t[_PerfPtcp/Adj] + [Nom]};{ana=rikkant[/V]=rikkant+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=rikkant, readable_ana=rikkant[/V] + [Prs.NDef.3Sg]}	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n	rikkan	[/V][Pst.NDef.3Sg]	V	O			(NP*))	O	
+82	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a, readable_ana=a[/Det|Pro|(Post)]};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a, readable_ana=a[/Det|art.Def]};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a, readable_ana=a[/N|Ltr] + [Nom]};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a, readable_ana=a[/N|Pro|(Post)] + [Nom]}	SubPOS=f	a	[/Det|art.Def]	Det	B-NP	DET	84	(NP*	O	
+84	rigó	{ana=rigó[/N]=rigó+[Nom], feats=[/N][Nom], lemma=rigó, readable_ana=rigó[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	rigó	[/N][Nom]	N	E-NP	SUBJ	80	*)	O	
+85	.		_	.	OTHER	.	O	ATT	80	*))	O	
+</s>
+<s>
+88	Nekünk	{ana=mi[/N|Pro]+neki[Dat]=nek+ünk[1Pl]=ünk, feats=[/N|Pro][Dat][1Pl], lemma=mi, readable_ana=mi[/N|Pro] + neki[Dat]=nek + ünk[1Pl]}	SubPOS=c|Num=s|Cas=g|NumP=none|PerP=none|NumPd=none	mi	[/N|Pro][Dat][1Pl]	N	1-NP	DAT	94	(ROOT(CP(CP(NP*)	O	
+90	te	{ana=te[/N|Pro]=te+[2Sg]+[Nom], feats=[/N|Pro][2Sg][Nom], lemma=te, readable_ana=te[/N|Pro] + [2Sg] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	te	[/N|Pro][2Sg][Nom]	N	1-NP	SUBJ	94	(NP*)	O	
+92	ne	{ana=ne[/Adv]=ne, feats=[/Adv], lemma=ne, readable_ana=ne[/Adv]};{ana=ne[/Inj-Utt]=ne, feats=[/Inj-Utt], lemma=ne, readable_ana=ne[/Inj-Utt]}	SubPOS=x|Deg=none|Num=none|Per=none	ne	[/Adv]	Adv	O	NEG	94	(NEG*)	O	
+94	ugass	{ana=ugat[/V]=ugas+s[Sbjv.NDef.2Sg]=s, feats=[/V][Sbjv.NDef.2Sg], lemma=ugat, readable_ana=ugat[/V]=ugas + s[Sbjv.NDef.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	ugat	[/V][Sbjv.NDef.2Sg]	V	O			(NP*))	O	
+95	,		_	,	OTHER	,	O	ATT	94	*	O	
+96	nekünk	{ana=mi[/N|Pro]+neki[Dat]=nek+ünk[1Pl]=ünk, feats=[/N|Pro][Dat][1Pl], lemma=mi, readable_ana=mi[/N|Pro] + neki[Dat]=nek + ünk[1Pl]}	SubPOS=c|Num=s|Cas=g|NumP=none|PerP=none|NumPd=none	mi	[/N|Pro][Dat][1Pl]	N	1-NP	DAT	94	(CP(NP*)	O	
+98	te	{ana=te[/N|Pro]=te+[2Sg]+[Nom], feats=[/N|Pro][2Sg][Nom], lemma=te, readable_ana=te[/N|Pro] + [2Sg] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	te	[/N|Pro][2Sg][Nom]	N	1-NP	SUBJ	102	(NP*)	O	
+100	ne	{ana=ne[/Adv]=ne, feats=[/Adv], lemma=ne, readable_ana=ne[/Adv]};{ana=ne[/Inj-Utt]=ne, feats=[/Inj-Utt], lemma=ne, readable_ana=ne[/Inj-Utt]}	SubPOS=x|Deg=none|Num=none|Per=none	ne	[/Adv]	Adv	O	NEG	102	(NEG*)	O	
+102	ugass	{ana=ugat[/V]=ugas+s[Sbjv.NDef.2Sg]=s, feats=[/V][Sbjv.NDef.2Sg], lemma=ugat, readable_ana=ugat[/V]=ugas + s[Sbjv.NDef.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	ugat	[/V][Sbjv.NDef.2Sg]	V	O	ATT	94	*)	O	
+103	!		_	!	OTHER	!	O	ATT	105	*	O	
+105	(		_	(	OTHER	(	O	ATT	111	(XP*	O	
+107	vau	{ana=vau[/Inj-Utt]=vau, feats=[/Inj-Utt], lemma=vau, readable_ana=vau[/Inj-Utt]};{ana=vau[/N]=vau+[Nom], feats=[/N][Nom], lemma=vau, readable_ana=vau[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	vau	[/N][Nom]	N	O	ATT	111	(NP*)	O	
+108	,		_	,	OTHER	,	O	ATT	111	*	O	
+109	vau	{ana=vau[/Inj-Utt]=vau, feats=[/Inj-Utt], lemma=vau, readable_ana=vau[/Inj-Utt]};{ana=vau[/N]=vau+[Nom], feats=[/N][Nom], lemma=vau, readable_ana=vau[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	vau	[/N][Nom]	N	O	ATT	111	(NP*)	O	
+110	,		_	,	OTHER	,	O	ATT	111	*	O	
+111	vau	{ana=vau[/Inj-Utt]=vau, feats=[/Inj-Utt], lemma=vau, readable_ana=vau[/Inj-Utt]};{ana=vau[/N]=vau+[Nom], feats=[/N][Nom], lemma=vau, readable_ana=vau[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	vau	[/N][Nom]	N	O	APPEND	102	(NP*)	O	
+113	)		_	)	OTHER	)	O	ATT	111	*)	O	
+115	Nekünk	{ana=mi[/N|Pro]+neki[Dat]=nek+ünk[1Pl]=ünk, feats=[/N|Pro][Dat][1Pl], lemma=mi, readable_ana=mi[/N|Pro] + neki[Dat]=nek + ünk[1Pl]}	SubPOS=c|Num=s|Cas=g|NumP=none|PerP=none|NumPd=none	mi	[/N|Pro][Dat][1Pl]	N	1-NP	DAT	102	(CP(NP*)	O	
+117	te	{ana=te[/N|Pro]=te+[2Sg]+[Nom], feats=[/N|Pro][2Sg][Nom], lemma=te, readable_ana=te[/N|Pro] + [2Sg] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	te	[/N|Pro][2Sg][Nom]	N	1-NP	SUBJ	121	(NP*)	O	
+119	ne	{ana=ne[/Adv]=ne, feats=[/Adv], lemma=ne, readable_ana=ne[/Adv]};{ana=ne[/Inj-Utt]=ne, feats=[/Inj-Utt], lemma=ne, readable_ana=ne[/Inj-Utt]}	SubPOS=x|Deg=none|Num=none|Per=none	ne	[/Adv]	Adv	O	NEG	121	(NEG*)	O	
+121	ugass	{ana=ugat[/V]=ugas+s[Sbjv.NDef.2Sg]=s, feats=[/V][Sbjv.NDef.2Sg], lemma=ugat, readable_ana=ugat[/V]=ugas + s[Sbjv.NDef.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	ugat	[/V][Sbjv.NDef.2Sg]	V	O	COORD	94	(NP*)	O	
+122	,		_	,	OTHER	,	O	ATT	95	*	O	
+123	nekünk	{ana=mi[/N|Pro]+neki[Dat]=nek+ünk[1Pl]=ünk, feats=[/N|Pro][Dat][1Pl], lemma=mi, readable_ana=mi[/N|Pro] + neki[Dat]=nek + ünk[1Pl]}	SubPOS=c|Num=s|Cas=g|NumP=none|PerP=none|NumPd=none	mi	[/N|Pro][Dat][1Pl]	N	1-NP	DAT	121	(CP(NP*)	O	
+125	te	{ana=te[/N|Pro]=te+[2Sg]+[Nom], feats=[/N|Pro][2Sg][Nom], lemma=te, readable_ana=te[/N|Pro] + [2Sg] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	te	[/N|Pro][2Sg][Nom]	N	1-NP	SUBJ	129	(NP*)	O	
+127	ne	{ana=ne[/Adv]=ne, feats=[/Adv], lemma=ne, readable_ana=ne[/Adv]};{ana=ne[/Inj-Utt]=ne, feats=[/Inj-Utt], lemma=ne, readable_ana=ne[/Inj-Utt]}	SubPOS=x|Deg=none|Num=none|Per=none	ne	[/Adv]	Adv	O	NEG	129	(NEG*)	O	
+129	ugass	{ana=ugat[/V]=ugas+s[Sbjv.NDef.2Sg]=s, feats=[/V][Sbjv.NDef.2Sg], lemma=ugat, readable_ana=ugat[/V]=ugas + s[Sbjv.NDef.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	ugat	[/V][Sbjv.NDef.2Sg]	V	O	ATT	121	*))	O	
+130	!		_	!	OTHER	!	O	ATT	132	*	O	
+132	(		_	(	OTHER	(	O	ATT	138	(XP*	O	
+134	vau	{ana=vau[/Inj-Utt]=vau, feats=[/Inj-Utt], lemma=vau, readable_ana=vau[/Inj-Utt]};{ana=vau[/N]=vau+[Nom], feats=[/N][Nom], lemma=vau, readable_ana=vau[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	vau	[/N][Nom]	N	O	ATT	138	(NP*)	O	
+135	,		_	,	OTHER	,	O	ATT	138	*	O	
+136	vau	{ana=vau[/Inj-Utt]=vau, feats=[/Inj-Utt], lemma=vau, readable_ana=vau[/Inj-Utt]};{ana=vau[/N]=vau+[Nom], feats=[/N][Nom], lemma=vau, readable_ana=vau[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	vau	[/N][Nom]	N	O	ATT	138	(NP*)	O	
+137	,		_	,	OTHER	,	O	ATT	138	*	O	
+138	vau	{ana=vau[/Inj-Utt]=vau, feats=[/Inj-Utt], lemma=vau, readable_ana=vau[/Inj-Utt]};{ana=vau[/N]=vau+[Nom], feats=[/N][Nom], lemma=vau, readable_ana=vau[/N] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	vau	[/N][Nom]	N	O	APPEND	129	(NP*)	O	
+140	)		_	)	OTHER	)	O	ATT	138	*)))	O	
+</s>
+<s>
+143	Mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	145	(ROOT(CP(CP(NP*)	O	
+145	akarok	{ana=akar[/V]=akar+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=akar, readable_ana=akar[/V] + ok[Prs.NDef.1Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	akar	[/V][Prs.NDef.1Sg]	V	O			(V_(V0*)))	O	
+146	,		_	,	OTHER	,	O	ATT	145	*	O	
+147	de	{ana=de[/Adv]=de, feats=[/Adv], lemma=de, readable_ana=de[/Adv]};{ana=de[/Cnj]=de, feats=[/Cnj], lemma=de, readable_ana=de[/Cnj]};{ana=de[/X]=de, feats=[/X], lemma=de, readable_ana=de[/X]}	SubPOS=c|Form=s|Coord=w	de	[/Cnj]	Cnj	O	CONJ	145	(C0*)	O	
+149	azt	{ana=az[/Det|Pro]=az+t[Acc]=t, feats=[/Det|Pro][Acc], lemma=az, readable_ana=az[/Det|Pro] + t[Acc]};{ana=az[/N|Pro]=az+t[Acc]=t, feats=[/N|Pro][Acc], lemma=az, readable_ana=az[/N|Pro] + t[Acc]}	SubPOS=f	az	[/Det|Pro][Acc]	Det	1-NP	OBJ	157	(CP(NP*)	O	
+151	most	{ana=most[/Adv]=most, feats=[/Adv], lemma=most, readable_ana=most[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	most	[/Adv]	Adv	O	TLOCY	157	(ADVP*)	O	
+153	rögtön	{ana=rögtön[/Adv]=rögtön, feats=[/Adv], lemma=rögtön, readable_ana=rögtön[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	rögtön	[/Adv]	Adv	O	TLOCY	157	(ADVP*)	O	
+154	,		_	,	OTHER	,	O	ATT	157	*	O	
+155	mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	157	(NP*)	O	
+157	akarok	{ana=akar[/V]=akar+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=akar, readable_ana=akar[/V] + ok[Prs.NDef.1Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	akar	[/V][Prs.NDef.1Sg]	V	O	COORD	147	(V_(V0*))	O	
+159	azonnal	{ana=azonnal[/Adv]=azonnal, feats=[/Adv], lemma=azonnal, readable_ana=azonnal[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	azonnal	[/Adv]	Adv	O	TLOCY	157	(ADVP*))	O	
+160	!		_	!	OTHER	!	O	ATT	146	*))	O	
+</s>
+<s>
+163	Mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	165	(ROOT(CP(CP(NP*)	O	
+165	akarok	{ana=akar[/V]=akar+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=akar, readable_ana=akar[/V] + ok[Prs.NDef.1Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	akar	[/V][Prs.NDef.1Sg]	V	O			(V_(V0*)))	O	
+166	,		_	,	OTHER	,	O	ATT	165	*	O	
+167	de	{ana=de[/Adv]=de, feats=[/Adv], lemma=de, readable_ana=de[/Adv]};{ana=de[/Cnj]=de, feats=[/Cnj], lemma=de, readable_ana=de[/Cnj]};{ana=de[/X]=de, feats=[/X], lemma=de, readable_ana=de[/X]}	SubPOS=c|Form=s|Coord=w	de	[/Cnj]	Cnj	O	CONJ	165	(C0*)	O	
+169	azt	{ana=az[/Det|Pro]=az+t[Acc]=t, feats=[/Det|Pro][Acc], lemma=az, readable_ana=az[/Det|Pro] + t[Acc]};{ana=az[/N|Pro]=az+t[Acc]=t, feats=[/N|Pro][Acc], lemma=az, readable_ana=az[/N|Pro] + t[Acc]}	SubPOS=f	az	[/Det|Pro][Acc]	Det	1-NP	COORD	167	(CP(NP*)	O	
+171	most	{ana=most[/Adv]=most, feats=[/Adv], lemma=most, readable_ana=most[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	most	[/Adv]	Adv	O	TLOCY	175	(ADVP*)	O	
+173	rögtön	{ana=rögtön[/Adv]=rögtön, feats=[/Adv], lemma=rögtön, readable_ana=rögtön[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	rögtön	[/Adv]	Adv	O	TLOCY	175	(ADVP*)	O	
+174	,		_	,	OTHER	,	O	ATT	175	*	O	
+175	hé	{ana=hé[/Inj-Utt]=hé, feats=[/Inj-Utt], lemma=hé, readable_ana=hé[/Inj-Utt]}	SubPOS=o	hé	[/Inj-Utt]	Inj-Utt	O	COORD	167	(NP*)	O	
+176	,		_	,	OTHER	,	O	ATT	175	*	O	
+177	még	{ana=még[/Adv]=még, feats=[/Adv], lemma=még, readable_ana=még[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	még	[/Adv]	Adv	O	TLOCY	179	(ADVP*)	O	
+179	ma	{ana=ma[/Adv]=ma, feats=[/Adv], lemma=ma, readable_ana=ma[/Adv]};{ana=ma[/N]=ma+[Nom], feats=[/N][Nom], lemma=ma, readable_ana=ma[/N] + [Nom]};{ana=ma[/N]=ma+[_Tmp_Loc/Adv], feats=[/N][_Tmp_Loc/Adv], lemma=ma, readable_ana=ma[/N] + [_Tmp_Loc/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	ma	[/Adv]	Adv	O	TLOCY	175	(ADVP*))	O	
+180	!		_	!	OTHER	!	O	ATT	175	*))	O	
+</s>
+<s>
+183	Sokkal	{ana=sok[/Num]=sok+kal[Ins]=kal, feats=[/Num][Ins], lemma=sok, readable_ana=sok[/Num] + kal[Ins]};{ana=sokk[/N]=sokk+al[Ins]=al, feats=[/N][Ins], lemma=sokk, readable_ana=sokk[/N] + al[Ins]};{ana=sokkal[/Adv]=sokkal, feats=[/Adv], lemma=sokkal, readable_ana=sokkal[/Adv]}	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	sok	[/Num][Ins]	Num	1-NP	MODE	185	(ROOT(CP(NP(ADVP*)	O	
+185	jobb	{ana=jobb[/Adj]=jobb+[Nom], feats=[/Adj][Nom], lemma=jobb, readable_ana=jobb[/Adj] + [Nom]};{ana=jobb[/N]=jobb+[Nom], feats=[/N][Nom], lemma=jobb, readable_ana=jobb[/N] + [Nom]};{ana=jó[/Adj]=jo+bb[_Comp/Adj]=bb+[Nom], feats=[/Adj][_Comp/Adj][Nom], lemma=jó, readable_ana=jó[/Adj]=jo + bb[_Comp/Adj] + [Nom]}	SubPOS=f|Deg=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	jó	[/Adj][_Comp/Adj][Nom]	Adj	1-NP			*)	O	
+187	ha	{ana=ha[/Cnj]=ha, feats=[/Cnj], lemma=ha, readable_ana=ha[/Cnj]};{ana=ha[/Inj-Utt]=ha, feats=[/Inj-Utt], lemma=ha, readable_ana=ha[/Inj-Utt]};{ana=ha[/N|Unit|Abbr]=ha+[Nom], feats=[/N][Nom], lemma=ha, readable_ana=ha[/N|Unit|Abbr] + [Nom]}	SubPOS=c|Form=s|Coord=w	ha	[/Cnj]	Cnj	O	CONJ	185	(C0*)	O	
+189	úgy	{ana=úgy[/Adv|Pro]=úgy, feats=[/Adv|Pro], lemma=úgy, readable_ana=úgy[/Adv|Pro]};{ana=úgy[/Inj-Utt]=úgy, feats=[/Inj-Utt], lemma=úgy, readable_ana=úgy[/Inj-Utt]}	SubPOS=d|Deg=none|Num=none|Per=none	úgy	[/Adv|Pro]	Adv	O	MODE	191	(CP(ADVP*)	O	
+191	szerzed	{ana=szerez[/V]=szerz+ed[Prs.Def.2Sg]=ed, feats=[/V][Prs.Def.2Sg], lemma=szerez, readable_ana=szerez[/V]=szerz + ed[Prs.Def.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	szerez	[/V][Prs.Def.2Sg]	V	O	ATT	187	*	O	
+193	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy, readable_ana=ahogy[/Adv|Pro|Rel]=hogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy, readable_ana=hogy[/Adv|Pro|Int]};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy, readable_ana=hogy[/Cnj]}	SubPOS=c|Form=s|Coord=w	hogy	[/Cnj]	Cnj	O	CONJ	191	(C0*)	O	
+195	vágyol		SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	vágyol	[/V][Prs.NDef.3Sg]	V	O	ATT	193	(CP(NP*)	O	
+197	utána	{ana=ő[/N|Pro]+után[/Post]=után+a[3Sg]=a, feats=[/Post][3Sg], lemma=őután, readable_ana=ő[/N|Pro] + után[/Post] + a[3Sg]};{ana=utána[/Adv]=utána, feats=[/Adv], lemma=utána, readable_ana=utána[/Adv]};{ana=utána[/Prev]=utána, feats=[/Prev], lemma=utána, readable_ana=utána[/Prev]}	SubPOS=x|Deg=none|Num=none|Per=none	utána	[/Adv]	Adv	O	TLOCY	195	(ADVP*)))	O	
+198	,		_	,	OTHER	,	O	ATT	195	*	O	
+200	Sokkal	{ana=sok[/Num]=sok+kal[Ins]=kal, feats=[/Num][Ins], lemma=sok, readable_ana=sok[/Num] + kal[Ins]};{ana=sokk[/N]=sokk+al[Ins]=al, feats=[/N][Ins], lemma=sokk, readable_ana=sokk[/N] + al[Ins]};{ana=sokkal[/Adv]=sokkal, feats=[/Adv], lemma=sokkal, readable_ana=sokkal[/Adv]}	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	sok	[/Num][Ins]	Num	1-NP	MODE	202	(NP(ADVP*)	O	
+202	jobb	{ana=jobb[/Adj]=jobb+[Nom], feats=[/Adj][Nom], lemma=jobb, readable_ana=jobb[/Adj] + [Nom]};{ana=jobb[/N]=jobb+[Nom], feats=[/N][Nom], lemma=jobb, readable_ana=jobb[/N] + [Nom]};{ana=jó[/Adj]=jo+bb[_Comp/Adj]=bb+[Nom], feats=[/Adj][_Comp/Adj][Nom], lemma=jó, readable_ana=jó[/Adj]=jo + bb[_Comp/Adj] + [Nom]}	SubPOS=f|Deg=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	jó	[/Adj][_Comp/Adj][Nom]	Adj	1-NP	ATT	198	*)	O	
+204	ha	{ana=ha[/Cnj]=ha, feats=[/Cnj], lemma=ha, readable_ana=ha[/Cnj]};{ana=ha[/Inj-Utt]=ha, feats=[/Inj-Utt], lemma=ha, readable_ana=ha[/Inj-Utt]};{ana=ha[/N|Unit|Abbr]=ha+[Nom], feats=[/N][Nom], lemma=ha, readable_ana=ha[/N|Unit|Abbr] + [Nom]}	SubPOS=c|Form=s|Coord=w	ha	[/Cnj]	Cnj	O	CONJ	195	(C0*)	O	
+206	úgy	{ana=úgy[/Adv|Pro]=úgy, feats=[/Adv|Pro], lemma=úgy, readable_ana=úgy[/Adv|Pro]};{ana=úgy[/Inj-Utt]=úgy, feats=[/Inj-Utt], lemma=úgy, readable_ana=úgy[/Inj-Utt]}	SubPOS=d|Deg=none|Num=none|Per=none	úgy	[/Adv|Pro]	Adv	O	MODE	208	(CP(ADVP*)	O	
+208	szerzed	{ana=szerez[/V]=szerz+ed[Prs.Def.2Sg]=ed, feats=[/V][Prs.Def.2Sg], lemma=szerez, readable_ana=szerez[/V]=szerz + ed[Prs.Def.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	szerez	[/V][Prs.Def.2Sg]	V	O	ATT	204	*	O	
+210	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy, readable_ana=ahogy[/Adv|Pro|Rel]=hogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy, readable_ana=hogy[/Adv|Pro|Int]};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy, readable_ana=hogy[/Cnj]}	SubPOS=c|Form=s|Coord=w	hogy	[/Cnj]	Cnj	O	CONJ	208	(C0*)	O	
+212	vágyol		SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	vágyol	[/V][Prs.NDef.3Sg]	V	O	ATT	210	(CP(NP*)	O	
+214	utána	{ana=ő[/N|Pro]+után[/Post]=után+a[3Sg]=a, feats=[/Post][3Sg], lemma=őután, readable_ana=ő[/N|Pro] + után[/Post] + a[3Sg]};{ana=utána[/Adv]=utána, feats=[/Adv], lemma=utána, readable_ana=utána[/Adv]};{ana=utána[/Prev]=utána, feats=[/Prev], lemma=utána, readable_ana=utána[/Prev]}	SubPOS=x|Deg=none|Num=none|Per=none	utána	[/Adv]	Adv	O	TLOCY	212	(ADVP*)))	O	
+215	!		_	!	OTHER	!	O	ATT	212	*))	O	
+</s>
+<s>
+218	Aha	{ana=aha[/Inj-Utt]=aha, feats=[/Inj-Utt], lemma=aha, readable_ana=aha[/Inj-Utt]};{ana=aha[/N]=aha+[Nom], feats=[/N][Nom], lemma=aha, readable_ana=aha[/N] + [Nom]}	SubPOS=o	aha	[/Inj-Utt]	Inj-Utt	O			(ROOT(CP(NP*)	O	
+219	.		_	.	OTHER	.	O	ATT	218	*))	O	
+</s>
+<s>
+222	Mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	228	(ROOT(CP(NP*)	O	
+223	,		_	,	OTHER	,	O	ATT	228	*	O	
+224	mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	228	(CP(NP*)	O	
+225	,		_	,	OTHER	,	O	ATT	228	*	O	
+226	mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	228	(NP*)	O	
+228	akarok	{ana=akar[/V]=akar+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=akar, readable_ana=akar[/V] + ok[Prs.NDef.1Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	akar	[/V][Prs.NDef.1Sg]	V	O			(V_(V0*)))	O	
+229	,		_	,	OTHER	,	O	ATT	228	*	O	
+230	hé	{ana=hé[/Inj-Utt]=hé, feats=[/Inj-Utt], lemma=hé, readable_ana=hé[/Inj-Utt]}	SubPOS=o	hé	[/Inj-Utt]	Inj-Utt	O	MODE	228	(NP*)	O	
+231	,		_	,	OTHER	,	O	ATT	230	*	O	
+232	még	{ana=még[/Adv]=még, feats=[/Adv], lemma=még, readable_ana=még[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	még	[/Adv]	Adv	O	TLOCY	234	(ADVP*)	O	
+234	ma	{ana=ma[/Adv]=ma, feats=[/Adv], lemma=ma, readable_ana=ma[/Adv]};{ana=ma[/N]=ma+[Nom], feats=[/N][Nom], lemma=ma, readable_ana=ma[/N] + [Nom]};{ana=ma[/N]=ma+[_Tmp_Loc/Adv], feats=[/N][_Tmp_Loc/Adv], lemma=ma, readable_ana=ma[/N] + [_Tmp_Loc/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	ma	[/Adv]	Adv	O	TLOCY	230	(ADVP*)	O	
+235	!		_	!	OTHER	!	O	ATT	230	*))	O	
+</s>
+<s>
+238	Sokkal	{ana=sok[/Num]=sok+kal[Ins]=kal, feats=[/Num][Ins], lemma=sok, readable_ana=sok[/Num] + kal[Ins]};{ana=sokk[/N]=sokk+al[Ins]=al, feats=[/N][Ins], lemma=sokk, readable_ana=sokk[/N] + al[Ins]};{ana=sokkal[/Adv]=sokkal, feats=[/Adv], lemma=sokkal, readable_ana=sokkal[/Adv]}	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	sok	[/Num][Ins]	Num	1-NP	MODE	240	(ROOT(CP(NP(ADVP*)	O	
+240	jobb	{ana=jobb[/Adj]=jobb+[Nom], feats=[/Adj][Nom], lemma=jobb, readable_ana=jobb[/Adj] + [Nom]};{ana=jobb[/N]=jobb+[Nom], feats=[/N][Nom], lemma=jobb, readable_ana=jobb[/N] + [Nom]};{ana=jó[/Adj]=jo+bb[_Comp/Adj]=bb+[Nom], feats=[/Adj][_Comp/Adj][Nom], lemma=jó, readable_ana=jó[/Adj]=jo + bb[_Comp/Adj] + [Nom]}	SubPOS=f|Deg=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	jó	[/Adj][_Comp/Adj][Nom]	Adj	1-NP	PRED	263	*)	O	
+242	ha	{ana=ha[/Cnj]=ha, feats=[/Cnj], lemma=ha, readable_ana=ha[/Cnj]};{ana=ha[/Inj-Utt]=ha, feats=[/Inj-Utt], lemma=ha, readable_ana=ha[/Inj-Utt]};{ana=ha[/N|Unit|Abbr]=ha+[Nom], feats=[/N][Nom], lemma=ha, readable_ana=ha[/N|Unit|Abbr] + [Nom]}	SubPOS=c|Form=s|Coord=w	ha	[/Cnj]	Cnj	O	CONJ	263	(C0*)	O	
+244	úgy	{ana=úgy[/Adv|Pro]=úgy, feats=[/Adv|Pro], lemma=úgy, readable_ana=úgy[/Adv|Pro]};{ana=úgy[/Inj-Utt]=úgy, feats=[/Inj-Utt], lemma=úgy, readable_ana=úgy[/Inj-Utt]}	SubPOS=d|Deg=none|Num=none|Per=none	úgy	[/Adv|Pro]	Adv	O	MODE	246	(ADVP*)	O	
+246	szerzed	{ana=szerez[/V]=szerz+ed[Prs.Def.2Sg]=ed, feats=[/V][Prs.Def.2Sg], lemma=szerez, readable_ana=szerez[/V]=szerz + ed[Prs.Def.2Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	szerez	[/V][Prs.Def.2Sg]	V	O	ATT	242	(NP(NP*)	O	
+248	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy, readable_ana=ahogy[/Adv|Pro|Rel]=hogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy, readable_ana=hogy[/Adv|Pro|Int]};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy, readable_ana=hogy[/Cnj]}	SubPOS=c|Form=s|Coord=w	hogy	[/Cnj]	Cnj	O	CONJ	246	(C0*)	O	
+250	vágyol		SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	vágyol	[/V][Prs.NDef.3Sg]	V	O	ATT	248	(NP*))	O	
+252	utána	{ana=ő[/N|Pro]+után[/Post]=után+a[3Sg]=a, feats=[/Post][3Sg], lemma=őután, readable_ana=ő[/N|Pro] + után[/Post] + a[3Sg]};{ana=utána[/Adv]=utána, feats=[/Adv], lemma=utána, readable_ana=utána[/Adv]};{ana=utána[/Prev]=utána, feats=[/Prev], lemma=utána, readable_ana=utána[/Prev]}	SubPOS=x|Deg=none|Num=none|Per=none	utána	[/Adv]	Adv	O	TLOCY	263	(ADVP*)	O	
+253	,		_	,	OTHER	,	O	ATT	263	*	O	
+255	De	{ana=de[/Adv]=de, feats=[/Adv], lemma=de, readable_ana=de[/Adv]};{ana=de[/Cnj]=de, feats=[/Cnj], lemma=de, readable_ana=de[/Cnj]};{ana=de[/X]=de, feats=[/X], lemma=de, readable_ana=de[/X]}	SubPOS=c|Form=s|Coord=w	de	[/Cnj]	Cnj	O	CONJ	263	(CP(C0*)	O	
+257	én	{ana=én[/N]=én+[Nom], feats=[/N][Nom], lemma=én, readable_ana=én[/N] + [Nom]};{ana=én[/N|Pro]=én+[1Sg]+[Nom], feats=[/N|Pro][1Sg][Nom], lemma=én, readable_ana=én[/N|Pro] + [1Sg] + [Nom]}	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	én	[/N|Pro][1Sg][Nom]	N	B-NP	SUBJ	263	(NP*)	O	
+259	türelmetlen	{ana=türelem[/N]=türelm+etlen[_Abe/Adj]=etlen+[Nom], feats=[/Adj][Nom], lemma=türelmetlen, readable_ana=türelem[/N]=türelm + etlen[_Abe/Adj] + [Nom]};{ana=türelem[/N]=türelm+etlen[_Abe/Adj]=etlen+[_Manner:0/Adv], feats=[/Adj][_Manner:0/Adv], lemma=türelmetlen, readable_ana=türelem[/N]=türelm + etlen[_Abe/Adj] + [_Manner:0/Adv]};{ana=türelmetlen[/Adj]=türelmetlen+[Nom], feats=[/Adj][Nom], lemma=türelmetlen, readable_ana=türelmetlen[/Adj] + [Nom]};{ana=türelmetlen[/Adj]=türelmetlen+[_Manner:0/Adv], feats=[/Adj][_Manner:0/Adv], lemma=türelmetlen, readable_ana=türelmetlen[/Adj] + [_Manner:0/Adv]}	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	türelmetlen	[/Adj][Nom]	Adj	I-NP	ATT	261	(NP(ADJP*)	O	
+261	ifjú	{ana=ifjú[/N]=ifj+ú[_Adjz:Ú/Adj]=ú+[Nom], feats=[/N][_Adjz:Ú/Adj][Nom], lemma=ifjú, readable_ana=ifjú[/N]=ifj + ú[_Adjz:Ú/Adj] + [Nom]};{ana=ifjú[/Adj]=ifjú+[Nom], feats=[/Adj][Nom], lemma=ifjú, readable_ana=ifjú[/Adj] + [Nom]};{ana=ifjú[/N]=ifjú+[Nom], feats=[/N][Nom], lemma=ifjú, readable_ana=ifjú[/N] + [Nom]}	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	ifjú	[/Adj][Nom]	Adj	E-NP	PRED	263	*)	O	
+263	vagyok	{ana=van[/V]=vagy+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=van, readable_ana=van[/V]=vagy + ok[Prs.NDef.1Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	van	[/V][Prs.NDef.1Sg]	V	O			(V_(V0*))	O	
+265	mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	OBJ	271	(NP*))	O	
+266	,		_	,	OTHER	,	O	ATT	265	*	O	
+267	mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	COORD	265	(NP*)	O	
+268	,		_	,	OTHER	,	O	ATT	267	*	O	
+269	mindent	{ana=minden[/N|Pro]=minden+t[Acc]=t, feats=[/N|Pro][Acc], lemma=minden, readable_ana=minden[/N|Pro] + t[Acc]}	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	minden	[/N|Pro][Acc]	N	1-NP	COORD	267	(CP(NP*)	O	
+271	akarok	{ana=akar[/V]=akar+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=akar, readable_ana=akar[/V] + ok[Prs.NDef.1Sg]}	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	akar	[/V][Prs.NDef.1Sg]	V	O	MODE	263	(V_(V0*)))	O	
+272	,		_	,	OTHER	,	O	ATT	271	*	O	
+273	hé	{ana=hé[/Inj-Utt]=hé, feats=[/Inj-Utt], lemma=hé, readable_ana=hé[/Inj-Utt]}	SubPOS=o	hé	[/Inj-Utt]	Inj-Utt	O	APPEND	271	(NP*)	O	
+274	,		_	,	OTHER	,	O	ATT	271	*	O	
+275	még	{ana=még[/Adv]=még, feats=[/Adv], lemma=még, readable_ana=még[/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	még	[/Adv]	Adv	O	TLOCY	277	(ADVP*)	O	
+277	ma	{ana=ma[/Adv]=ma, feats=[/Adv], lemma=ma, readable_ana=ma[/Adv]};{ana=ma[/N]=ma+[Nom], feats=[/N][Nom], lemma=ma, readable_ana=ma[/N] + [Nom]};{ana=ma[/N]=ma+[_Tmp_Loc/Adv], feats=[/N][_Tmp_Loc/Adv], lemma=ma, readable_ana=ma[/N] + [_Tmp_Loc/Adv]}	SubPOS=x|Deg=none|Num=none|Per=none	ma	[/Adv]	Adv	O	TLOCY	271	(ADVP*)	O	
+278	!		_	!	OTHER	!	O	ATT	271	*))	O	
+</s>
