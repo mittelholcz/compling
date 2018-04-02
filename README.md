@@ -10,3 +10,4 @@ Computational Linguistics Course at the Research Institute for Linguistics
 | [03.](https://github.com/m-ivan/compling/tree/master/03.Shell) | Shell, alap parancsok, pipe és átirányítás. |
 | [04.](https://github.com/m-ivan/compling/tree/master/04.Regex) | Reguláris kifejezések. |
 | [05.](https://github.com/m-ivan/compling/tree/master/05.Automata) | Formális nyelvek és automaták. |
+| [06.](https://github.com/m-ivan/compling/tree/master/06.CorpusBuilding) | Korpuszépítés. |
