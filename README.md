@@ -13,3 +13,4 @@ Computational Linguistics Course at the Research Institute for Linguistics
 | [06.](https://github.com/m-ivan/compling/tree/master/06.CorpusBuilding) | Korpuszépítés. |
 | [07.](https://github.com/m-ivan/compling/tree/master/07.CorpusAnnotation) | Korpuszok annotálása és kiértékelése. |
 | [08.](https://github.com/m-ivan/compling/tree/master/08.AnnotationLevels) | Elemzési szintek. |
+| [09.](https://github.com/m-ivan/compling/tree/master/09.MachineLearning1) | Gépi tanulás 1. (HunTag3) |
