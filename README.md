@@ -15,3 +15,4 @@ Computational Linguistics Course at the Research Institute for Linguistics
 | [08.](https://github.com/m-ivan/compling/tree/master/08.AnnotationLevels) | Elemzési szintek. |
 | [09.](https://github.com/m-ivan/compling/tree/master/09.MachineLearning1) | Gépi tanulás 1. (elmélet) |
 | [10.](https://github.com/m-ivan/compling/tree/master/10.MachineLearning2) | Gépi tanulás 2. (gyakorlat) |
+| [11.](https://github.com/m-ivan/compling/tree/master/11.CorpusQuery) | Keresés korpuszban |
